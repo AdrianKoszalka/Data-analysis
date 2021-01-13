@@ -1,0 +1,1312 @@
+DATE;TYPE ;FROM;TO ;AMOUNT ;CURRENCY
+01.01.2020;Income;Bank Account Marcus;Salary Sophie ;150,78;EUR
+01.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,53;EUR
+02.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+02.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;105,00;EUR
+03.01.2020;Expense;Cash Marcus;Food;4,00;EUR
+03.01.2020;Income;Cash Marcus;Salary Marcus;1406,00;EUR
+03.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;8,99;EUR
+03.01.2020;Expense;Bank Account Sophie;Food;44,70;EUR
+03.01.2020;Expense;Bank Account Marcus;Home Equipment;4,58;EUR
+03.01.2020;Expense;Bank Account Marcus;Cosmetics and Care;4,21;EUR
+03.01.2020;Expense;Bank Account Marcus;Health Care;17,13;EUR
+03.01.2020;Expense;Bank Account Marcus;Food;5,13;EUR
+04.01.2020;Expense;Bank Account Marcus;Food;27,75;EUR
+05.01.2020;Expense;Cash Marcus;Food;5,00;EUR
+05.01.2020;Income;Cash Marcus;Salary Sophie ;124,00;EUR
+06.01.2020;Expense;Bank Account Sophie;Food;18,58;EUR
+06.01.2020;Expense;Bank Account Sophie;Food;4,78;EUR
+06.01.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+07.01.2020;Expense;Cash Marcus;Food;24,70;EUR
+07.01.2020;Expense;Bank Account Sophie;Education;43,85;EUR
+07.01.2020;Expense;Cash Sophie ;Food;1,50;EUR
+08.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;35,00;EUR
+08.01.2020;Expense;Cash Marcus;Food;4,60;EUR
+08.01.2020;Expense;Bank Account Sophie;Food;17,85;EUR
+08.01.2020;Expense;Bank Account Sophie;Food;4,86;EUR
+10.01.2020;Income;Bank Account Marcus;Salary Marcus;1853,89;EUR
+10.01.2020;Expense;Bank Account Sophie;Food;8,70;EUR
+10.01.2020;Expense;Bank Account Sophie;Cosmetics and Care;1,60;EUR
+10.01.2020;Expense;Cash Marcus;Food;32,30;EUR
+10.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+11.01.2020;Expense;Cash Marcus;Food;4,40;EUR
+11.01.2020;Income;Cash Marcus;Salary Marcus;163,00;EUR
+12.01.2020;Expense;Cash Marcus;Food;4,00;EUR
+13.01.2020;Expense;Cash Sophie ;Food;2,60;EUR
+13.01.2020;Expense;Cash Sophie ;Education;5,00;EUR
+13.01.2020;Expense;Bank Account Sophie;Education;7,50;EUR
+13.01.2020;Income;Cash Marcus;Salary Marcus;221,00;EUR
+14.01.2020;Expense;Bank Account Sophie;Health Care;86,71;EUR
+14.01.2020;Expense;Bank Account Sophie;Consumer Credit;331,80;EUR
+14.01.2020;Expense;Cash Marcus;Food;13,50;EUR
+14.01.2020;Expense;Bank Account Sophie;Food;2,48;EUR
+15.01.2020;Expense;Bank Account Sophie;Food;3,80;EUR
+15.01.2020;Expense;Cash Marcus;Food;4,00;EUR
+15.01.2020;Expense;Bank Account Marcus;Rent;127,12;EUR
+15.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;36,40;EUR
+15.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,05;EUR
+15.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+16.01.2020;Expense;Cash Sophie ;Education;1,00;EUR
+16.01.2020;Expense;Bank Account Sophie;Food;5,00;EUR
+16.01.2020;Expense;Cash Marcus;Food;4,00;EUR
+16.01.2020;Income;Bank Account Sophie;Apartment Renting ;853,48;EUR
+17.01.2020;Expense;Bank Account Sophie;Food;8,34;EUR
+17.01.2020;Expense;Bank Account Sophie;Education;46,80;EUR
+17.01.2020;Expense;Cash Sophie ;Food;1,50;EUR
+17.01.2020;Expense;Bank Account Marcus;Food;32,88;EUR
+17.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;45,00;EUR
+17.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+17.01.2020;Expense;Bank Account Sophie;Consumer Credit;1225,25;EUR
+18.01.2020;Expense;Cash Marcus;Food;2,20;EUR
+18.01.2020;Expense;Cash Marcus;Food;4,00;EUR
+18.01.2020;Expense;Cash Marcus;Food;43,00;EUR
+18.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;3,99;EUR
+19.01.2020;Expense;Cash Marcus;Health Care;1,00;EUR
+19.01.2020;Expense;Cash Marcus;Food;18,90;EUR
+19.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;39,00;EUR
+19.01.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+20.01.2020;Expense;Bank Account Marcus;Food;20,80;EUR
+21.01.2020;Expense;Cash Marcus;Clothes;35,00;EUR
+21.01.2020;Expense;Cash Marcus;Education;7,90;EUR
+21.01.2020;Expense;Cash Marcus;Education;5,99;EUR
+21.01.2020;Expense;Bank Account Marcus;Food;21,22;EUR
+21.01.2020;Expense;Bank Account Marcus;Home Equipment;19,99;EUR
+22.01.2020;Expense;Bank Account Sophie;Transport;12,89;EUR
+22.01.2020;Expense;Bank Account Sophie;Clothes;53,60;EUR
+22.01.2020;Expense;Cash Sophie ;Food;2,10;EUR
+22.01.2020;Expense;Cash Marcus;Food;13,00;EUR
+22.01.2020;Income;Cash Marcus;Salary Marcus;340,30;EUR
+22.01.2020;Income;Cash Marcus;Salary Marcus;177,50;EUR
+22.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+22.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+24.01.2020;Expense;Cash Marcus;Food;25,00;EUR
+24.01.2020;Expense;Bank Account Sophie;Cosmetics and Care;39,58;EUR
+24.01.2020;Expense;Cash Marcus;Food;2,90;EUR
+24.01.2020;Expense;Bank Account Marcus;Health Care;100,80;EUR
+24.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;70,75;EUR
+25.01.2020;Expense;Bank Account Sophie;Health Care;17,95;EUR
+25.01.2020;Expense;Bank Account Sophie;Home Equipment;14,68;EUR
+25.01.2020;Income;Cash Sophie ;Salary Sophie ;142,96;EUR
+25.01.2020;Expense;Bank Account Sophie;Clothes;75,90;EUR
+25.01.2020;Expense;Cash Marcus;Food;36,00;EUR
+25.01.2020;Expense;Cash Marcus;Cosmetics and Care;17,20;EUR
+26.01.2020;Income;Cash Marcus;Salary Marcus;191,80;EUR
+27.01.2020;Expense;Cash Marcus;Food;0,10;EUR
+27.01.2020;Expense;Cash Marcus;Food;16,80;EUR
+27.01.2020;Expense;Cash Marcus;Cosmetics and Care;24,00;EUR
+27.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,90;EUR
+27.01.2020;Expense;Bank Account Marcus;Food;3,95;EUR
+28.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;59,98;EUR
+28.01.2020;Expense;Bank Account Marcus;Food;4,15;EUR
+28.01.2020;Expense;Bank Account Marcus;Food;9,60;EUR
+28.01.2020;Expense;Bank Account Sophie;Fees and Subscriptions;13,00;EUR
+28.01.2020;Income;Bank Account Sophie;Salary Sophie ;713,00;EUR
+28.01.2020;Expense;Bank Account Sophie;Education;1,57;EUR
+28.01.2020;Expense;Bank Account Sophie;Food;3,80;EUR
+28.01.2020;Income;Bank Account Sophie;Salary Marcus 2;614,26;EUR
+29.01.2020;Expense;Cash Sophie ;Food;3,00;EUR
+29.01.2020;Expense;Cash Marcus;Food;27,70;EUR
+29.01.2020;Expense;Bank Account Marcus;Fees and Subscriptions;0,25;EUR
+30.01.2020;Expense;Cash Marcus;Food;1,50;EUR
+31.01.2020;Expense;Cash Sophie ;Travels;15,00;EUR
+31.01.2020;Expense;Cash Marcus;Travels;10,00;EUR
+31.01.2020;Expense;Cash Sophie ;Food;1,50;EUR
+31.01.2020;Expense;Cash Marcus;Food;7,40;EUR
+31.01.2020;Expense;Bank Account Marcus;Food;25,40;EUR
+31.01.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+01.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,53;EUR
+01.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.02.2020;Expense;Bank Account Marcus;Food;4,35;EUR
+01.02.2020;Expense;Bank Account Marcus;Food;41,61;EUR
+03.02.2020;Expense;Bank Account Marcus;Education;180,00;EUR
+03.02.2020;Expense;Bank Account Marcus;Food;27,73;EUR
+03.02.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+03.02.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,00;EUR
+03.02.2020;Expense;Bank Account Marcus;Home Equipment;6,62;EUR
+03.02.2020;Expense;Bank Account Marcus;Food;5,20;EUR
+03.02.2020;Expense;Cash Marcus;Food;1,50;EUR
+04.02.2020;Expense;Cash Sophie ;Food;2,70;EUR
+04.02.2020;Expense;Bank Account Sophie;Food;6,46;EUR
+04.02.2020;Expense;Bank Account Marcus;Food;9,48;EUR
+05.02.2020;Expense;Bank Account Sophie;Travels;25,00;EUR
+05.02.2020;Expense;Bank Account Marcus;Home Equipment;74,86;EUR
+05.02.2020;Expense;Bank Account Marcus;Food;11,92;EUR
+06.02.2020;Expense;Cash Sophie ;Food;1,50;EUR
+06.02.2020;Expense;Cash Marcus;Food;0,40;EUR
+06.02.2020;Expense;Bank Account Marcus;Food;9,75;EUR
+06.02.2020;Income;Bank Account Marcus;Salary Sophie ;100,80;EUR
+07.02.2020;Expense;Cash Marcus;Food;3,30;EUR
+07.02.2020;Income;Cash Marcus;Salary Marcus;71,00;EUR
+07.02.2020;Expense;Bank Account Marcus;Cosmetics and Care;19,40;EUR
+07.02.2020;Expense;Bank Account Marcus;Food;33,40;EUR
+08.02.2020;Expense;Cash Marcus;Food;5,00;EUR
+09.02.2020;Expense;Cash Marcus;Food;4,50;EUR
+10.02.2020;Income;Bank Account Sophie;Salary Sophie ;53,36;EUR
+10.02.2020;Expense;Cash Sophie ;Food;3,00;EUR
+10.02.2020;Expense;Bank Account Sophie;Education;38,46;EUR
+10.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+10.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+10.02.2020;Expense;Bank Account Sophie;Education;72,44;EUR
+10.02.2020;Expense;Cash Marcus;Food;0,40;EUR
+10.02.2020;Expense;Cash Marcus;Food;9,00;EUR
+10.02.2020;Income;Cash Marcus;Salary Marcus;61,50;EUR
+10.02.2020;Expense;Bank Account Marcus;Food;27,78;EUR
+11.02.2020;Expense;Cash Marcus;Food;12,00;EUR
+11.02.2020;Expense;Bank Account Sophie;Food;9,14;EUR
+11.02.2020;Income;Bank Account Marcus;Salary Marcus;1929,92;EUR
+11.02.2020;Expense;Bank Account Sophie;Fun and Rest;67,00;EUR
+12.02.2020;Expense;Cash Marcus;Food;11,20;EUR
+12.02.2020;Expense;Bank Account Sophie;Consumer Credit;138,83;EUR
+12.02.2020;Expense;Bank Account Sophie;Consumer Credit;192,97;EUR
+12.02.2020;Expense;Bank Account Sophie;Home Equipment;27,93;EUR
+12.02.2020;Expense;Bank Account Sophie;Food;5,04;EUR
+13.02.2020;Expense;Cash Sophie ;Food;2,00;EUR
+13.02.2020;Expense;Cash Marcus;Fun and Rest;2,00;EUR
+13.02.2020;Expense;Cash Marcus;Food;7,20;EUR
+14.02.2020;Expense;Cash Sophie ;Fun and Rest;2,00;EUR
+14.02.2020;Expense;Cash Marcus;Food;18,60;EUR
+14.02.2020;Expense;Cash Marcus;Food;5,30;EUR
+14.02.2020;Expense;Bank Account Marcus;Unidentified;10,00;EUR
+14.02.2020;Expense;Bank Account Marcus;Fun and Rest;40,52;EUR
+14.02.2020;Expense;Bank Account Marcus;Transport;1,90;EUR
+14.02.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+16.02.2020;Expense;Bank Account Marcus;Food;39,17;EUR
+16.02.2020;Income;Cash Marcus;Salary Marcus;10,00;EUR
+17.02.2020;Expense;Bank Account Sophie;Food;4,27;EUR
+17.02.2020;Expense;Bank Account Sophie;Consumer Credit;1225,25;EUR
+17.02.2020;Expense;Cash Marcus;Food;10,52;EUR
+17.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;36,40;EUR
+17.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,05;EUR
+17.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+17.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+17.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;182,29;EUR
+18.02.2020;Income;Cash Marcus;Salary Marcus 2;1350,00;EUR
+18.02.2020;Expense;Cash Marcus;Food;3,90;EUR
+18.02.2020;Expense;Cash Marcus;Food;4,21;EUR
+18.02.2020;Expense;Cash Marcus;Food;13,60;EUR
+18.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,76;EUR
+19.02.2020;Expense;Cash Marcus;Food;6,50;EUR
+19.02.2020;Expense;Cash Marcus;Unidentified;23,00;EUR
+19.02.2020;Expense;Cash Sophie ;Food;3,00;EUR
+19.02.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+19.02.2020;Income;Bank Account Sophie;Apartment Renting ;2349,24;EUR
+20.02.2020;Expense;Cash Sophie ;Health Care;60,00;EUR
+20.02.2020;Expense;Bank Account Marcus;Food;9,75;EUR
+20.02.2020;Expense;Bank Account Marcus;Food;3,53;EUR
+20.02.2020;Expense;Bank Account Marcus;Food;24,70;EUR
+20.02.2020;Expense;Bank Account Marcus;Unidentified;39,43;EUR
+21.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+21.02.2020;Expense;Cash Marcus;Cosmetics and Care;1,70;EUR
+21.02.2020;Expense;Bank Account Sophie;Transport;193,80;EUR
+21.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+21.02.2020;Expense;Bank Account Sophie;Fun and Rest;1,99;EUR
+21.02.2020;Expense;Bank Account Marcus;Travels;150,00;EUR
+21.02.2020;Expense;Bank Account Marcus;Food;9,30;EUR
+21.02.2020;Expense;Bank Account Marcus;Transport;1,90;EUR
+21.02.2020;Expense;Bank Account Marcus;Food;24,90;EUR
+21.02.2020;Income;Cash Marcus;Salary Marcus;53,50;EUR
+21.02.2020;Income;Bank Account Sophie;Salary Sophie ;78,25;EUR
+21.02.2020;Income;Bank Account Sophie;Salary Sophie ;987,75;EUR
+21.02.2020;Income;Bank Account Sophie;Salary Sophie ;454,67;EUR
+23.02.2020;Expense;Bank Account Marcus;Transport;1,90;EUR
+23.02.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+23.02.2020;Expense;Cash Sophie ;Fun and Rest;1,00;EUR
+23.02.2020;Expense;Cash Marcus;Fun and Rest;4,40;EUR
+23.02.2020;Expense;Bank Account Marcus;Fun and Rest;23,10;EUR
+23.02.2020;Expense;Cash Marcus;Food;4,40;EUR
+23.02.2020;Expense;Bank Account Marcus;Food;10,82;EUR
+23.02.2020;Expense;Bank Account Marcus;Food;5,97;EUR
+23.02.2020;Expense;Cash Sophie ;Food;1,60;EUR
+24.02.2020;Expense;Bank Account Marcus;Home Equipment;21,98;EUR
+24.02.2020;Expense;Bank Account Sophie;Food;13,56;EUR
+24.02.2020;Expense;Bank Account Sophie;Food;8,85;EUR
+24.02.2020;Income;Bank Account Sophie;Salary Sophie ;48,00;EUR
+24.02.2020;Expense;Cash Marcus;Food;10,00;EUR
+24.02.2020;Expense;Cash Marcus;Cosmetics and Care;24,00;EUR
+24.02.2020;Expense;Bank Account Marcus;Food;19,42;EUR
+24.02.2020;Expense;Bank Account Marcus;Unidentified;1,10;EUR
+24.02.2020;Expense;Bank Account Marcus;Transport;1,90;EUR
+24.02.2020;Expense;Bank Account Sophie;Unidentified;29,21;EUR
+24.02.2020;Expense;Cash Marcus;Fun and Rest;9,90;EUR
+25.02.2020;Expense;Cash Marcus;Travels;25,00;EUR
+25.02.2020;Expense;Bank Account Sophie;Food;8,22;EUR
+25.02.2020;Expense;Cash Marcus;Food;4,50;EUR
+25.02.2020;Income;Cash Marcus;Salary Marcus;83,00;EUR
+25.02.2020;Income;Bank Account Sophie;Salary Sophie ;230,09;EUR
+26.02.2020;Expense;Bank Account Marcus;Food;10,69;EUR
+26.02.2020;Income;Bank Account Sophie;Salary Marcus 2;674,60;EUR
+26.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;73,74;EUR
+27.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;52,05;EUR
+27.02.2020;Expense;Bank Account Marcus;Food;10,98;EUR
+27.02.2020;Expense;Bank Account Marcus;Education;119,00;EUR
+27.02.2020;Expense;Bank Account Marcus;Fees and Subscriptions;13,10;EUR
+28.02.2020;Expense;Bank Account Sophie;Clothes;201,13;EUR
+28.02.2020;Expense;Bank Account Marcus;Food;12,59;EUR
+28.02.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,79;EUR
+28.02.2020;Expense;Bank Account Marcus;Food;28,45;EUR
+28.02.2020;Expense;Bank Account Marcus;Food;34,28;EUR
+28.02.2020;Expense;Bank Account Marcus;Unidentified;55,00;EUR
+29.02.2020;Income;Bank Account Marcus;Salary Sophie ;234,20;EUR
+29.02.2020;Expense;Cash Marcus;Food;3,70;EUR
+29.02.2020;Expense;Bank Account Sophie;Fees and Subscriptions;26,00;EUR
+29.02.2020;Expense;Bank Account Sophie;Food;11,28;EUR
+01.03.2020;Expense;Bank Account Marcus;Food;0,20;EUR
+01.03.2020;Expense;Bank Account Marcus;Food;35,80;EUR
+01.03.2020;Expense;Bank Account Marcus;Food;5,48;EUR
+01.03.2020;Expense;Bank Account Marcus;Food;39,49;EUR
+01.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+01.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,62;EUR
+02.03.2020;Expense;Bank Account Sophie;Education;18,50;EUR
+02.03.2020;Expense;Bank Account Marcus;Food;4,00;EUR
+02.03.2020;Expense;Cash Marcus;Food;1,00;EUR
+02.03.2020;Expense;Cash Sophie ;Food;1,00;EUR
+02.03.2020;Expense;Bank Account Sophie;Food;4,00;EUR
+03.03.2020;Expense;Bank Account Sophie;Fun and Rest;30,00;EUR
+03.03.2020;Income;Bank Account Sophie;Salary Sophie ;122,00;EUR
+03.03.2020;Income;Bank Account Marcus;Salary Sophie ;3,25;EUR
+03.03.2020;Expense;Bank Account Marcus;Food;22,13;EUR
+03.03.2020;Expense;Bank Account Marcus;Cosmetics and Care;13,54;EUR
+03.03.2020;Expense;Cash Sophie ;Food;2,90;EUR
+04.03.2020;Expense;Bank Account Sophie;Home Equipment;25,00;EUR
+04.03.2020;Expense;Bank Account Sophie;Food;3,57;EUR
+04.03.2020;Expense;Bank Account Sophie;Cosmetics and Care;35,14;EUR
+04.03.2020;Expense;Bank Account Sophie;Cosmetics and Care;23,95;EUR
+04.03.2020;Expense;Bank Account Sophie;Food;13,25;EUR
+04.03.2020;Expense;Bank Account Marcus;Food;74,67;EUR
+04.03.2020;Expense;Bank Account Marcus;Cosmetics and Care;14,94;EUR
+04.03.2020;Expense;Bank Account Marcus;Health Care;18,45;EUR
+04.03.2020;Expense;Bank Account Marcus;Food;2,99;EUR
+05.03.2020;Expense;Cash Marcus;Health Care;50,00;EUR
+05.03.2020;Expense;Cash Sophie ;Health Care;10,00;EUR
+05.03.2020;Expense;Bank Account Sophie;Food;16,00;EUR
+05.03.2020;Income;Cash Marcus;Salary Marcus;96,30;EUR
+05.03.2020;Expense;Bank Account Marcus;Food;11,40;EUR
+06.03.2020;Income;Bank Account Sophie;Salary Sophie ;26,00;EUR
+06.03.2020;Expense;Cash Sophie ;Food;9,80;EUR
+06.03.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+06.03.2020;Expense;Bank Account Marcus;Food;13,18;EUR
+06.03.2020;Income;Bank Account Marcus;Salary Marcus;1905,72;EUR
+07.03.2020;Expense;Cash Sophie ;Food;3,50;EUR
+07.03.2020;Expense;Bank Account Sophie;Food;23,60;EUR
+07.03.2020;Expense;Bank Account Sophie;Cosmetics and Care;4,78;EUR
+07.03.2020;Expense;Bank Account Sophie;Food;4,12;EUR
+07.03.2020;Expense;Bank Account Sophie;Education;45,74;EUR
+07.03.2020;Expense;Bank Account Marcus;Fun and Rest;12,95;EUR
+08.03.2020;Expense;Bank Account Marcus;Food;17,95;EUR
+08.03.2020;Expense;Cash Marcus;Food;8,30;EUR
+08.03.2020;Expense;Cash Marcus;Fun and Rest;10,00;EUR
+09.03.2020;Expense;Bank Account Sophie;Fun and Rest;10,00;EUR
+09.03.2020;Expense;Bank Account Sophie;Travels;100,00;EUR
+09.03.2020;Expense;Bank Account Marcus;Food;24,70;EUR
+09.03.2020;Expense;Bank Account Sophie;Food;2,60;EUR
+10.03.2020;Expense;Cash Marcus;Food;4,80;EUR
+10.03.2020;Expense;Cash Marcus;Health Care;5,00;EUR
+10.03.2020;Expense;Cash Marcus;Cosmetics and Care;0,80;EUR
+10.03.2020;Expense;Cash Marcus;Food;9,00;EUR
+10.03.2020;Expense;Cash Sophie ;Food;3,50;EUR
+10.03.2020;Expense;Cash Sophie ;Health Care;60,00;EUR
+10.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+10.03.2020;Expense;Bank Account Marcus;Food;22,83;EUR
+10.03.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+10.03.2020;Expense;Bank Account Sophie;Food;3,00;EUR
+11.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+11.03.2020;Expense;Bank Account Sophie;Food;4,70;EUR
+11.03.2020;Income;Bank Account Sophie;Salary Sophie ;92,99;EUR
+12.03.2020;Expense;Bank Account Marcus;Cosmetics and Care;4,98;EUR
+12.03.2020;Expense;Bank Account Marcus;Food;56,21;EUR
+12.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;91,00;EUR
+12.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;183,54;EUR
+12.03.2020;Income;Bank Account Sophie;Salary Sophie ;1162,62;EUR
+12.03.2020;Expense;Bank Account Marcus;Cosmetics and Care;1,10;EUR
+13.03.2020;Expense;Bank Account Marcus;Food;7,97;EUR
+13.03.2020;Expense;Bank Account Marcus;Unidentified;32,87;EUR
+13.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,05;EUR
+13.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+14.03.2020;Expense;Bank Account Marcus;Food;4,51;EUR
+14.03.2020;Expense;Bank Account Marcus;Health Care;24,00;EUR
+14.03.2020;Expense;Bank Account Marcus;Food;29,69;EUR
+16.03.2020;Expense;Bank Account Marcus;Fun and Rest;34,99;EUR
+17.03.2020;Expense;Bank Account Sophie;Consumer Credit;1225,25;EUR
+17.03.2020;Expense;Cash Sophie ;Health Care;60,00;EUR
+17.03.2020;Expense;Bank Account Sophie;Transport;7,95;EUR
+17.03.2020;Expense;Bank Account Sophie;Transport;9,00;EUR
+17.03.2020;Expense;Bank Account Sophie;Education;10,99;EUR
+18.03.2020;Income;Bank Account Marcus;Salary Marcus;66,43;EUR
+18.03.2020;Expense;Bank Account Marcus;Food;8,10;EUR
+18.03.2020;Expense;Bank Account Marcus;Food;38,82;EUR
+18.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+21.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+21.03.2020;Expense;Bank Account Marcus;Food;22,80;EUR
+21.03.2020;Expense;Bank Account Marcus;Cosmetics and Care;14,36;EUR
+25.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+25.03.2020;Expense;Bank Account Marcus;Food;6,40;EUR
+25.03.2020;Expense;Bank Account Marcus;Food;33,50;EUR
+26.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;71,42;EUR
+26.03.2020;Income;Bank Account Sophie;Salary Marcus 2;1144,85;EUR
+27.03.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+27.03.2020;Expense;Bank Account Sophie;Fees and Subscriptions;242,05;EUR
+27.03.2020;Income;Bank Account Sophie;Salary Sophie ;90,00;EUR
+27.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;49,98;EUR
+28.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,28;EUR
+28.03.2020;Expense;Bank Account Marcus;Fees and Subscriptions;13,09;EUR
+30.03.2020;Expense;Bank Account Marcus;Food;23,28;EUR
+31.03.2020;Expense;Bank Account Marcus;Health Care;60,00;EUR
+01.04.2020;Income;Bank Account Sophie;Salary Sophie ;0,07;EUR
+01.04.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.04.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+02.04.2020;Expense;Cash Marcus;Unidentified;4,00;EUR
+02.04.2020;Expense;Bank Account Sophie;Health Care;25,00;EUR
+02.04.2020;Expense;Bank Account Sophie;Health Care;15,00;EUR
+02.04.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+02.04.2020;Expense;Bank Account Marcus;Food;11,67;EUR
+02.04.2020;Expense;Bank Account Marcus;Cosmetics and Care;2,95;EUR
+02.04.2020;Expense;Bank Account Marcus;Cosmetics and Care;9,41;EUR
+02.04.2020;Expense;Bank Account Marcus;Food;97,80;EUR
+04.04.2020;Expense;Bank Account Marcus;Food;58,69;EUR
+06.04.2020;Expense;Bank Account Marcus;Food;22,60;EUR
+07.04.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+07.04.2020;Income;Bank Account Sophie;Salary Sophie ;26,00;EUR
+07.04.2020;Expense;Bank Account Marcus;Food;5,48;EUR
+09.04.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+09.04.2020;Expense;Bank Account Marcus;Food;10,00;EUR
+09.04.2020;Expense;Bank Account Marcus;Cosmetics and Care;15,90;EUR
+10.04.2020;Expense;Cash Marcus;Food;10,40;EUR
+10.04.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+10.04.2020;Income;Bank Account Sophie;Apartment Renting ;845,24;EUR
+11.04.2020;Expense;Bank Account Sophie;Food;46,35;EUR
+11.04.2020;Expense;Bank Account Sophie;Cosmetics and Care;6,35;EUR
+14.04.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+16.04.2020;Expense;Bank Account Sophie;Health Care;20,72;EUR
+16.04.2020;Expense;Bank Account Sophie;Food;33,61;EUR
+17.04.2020;Expense;Bank Account Sophie;Fees and Subscriptions;183,55;EUR
+17.04.2020;Expense;Bank Account Sophie;Consumer Credit;548,02;EUR
+17.04.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+17.04.2020;Income;Bank Account Marcus;Salary Marcus;1489,28;EUR
+20.04.2020;Expense;Bank Account Marcus;Food;74,40;EUR
+20.04.2020;Expense;Bank Account Marcus;Food;5,95;EUR
+21.04.2020;Expense;Bank Account Marcus;Health Care;60,00;EUR
+21.04.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+23.04.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+25.04.2020;Expense;Bank Account Marcus;Food;22,51;EUR
+25.04.2020;Expense;Bank Account Marcus;Health Care;23,00;EUR
+25.04.2020;Expense;Bank Account Marcus;Food;65,55;EUR
+25.04.2020;Expense;Bank Account Marcus;Food;5,18;EUR
+25.04.2020;Expense;Bank Account Marcus;Food;14,80;EUR
+26.04.2020;Expense;Bank Account Marcus;Food;23,30;EUR
+26.04.2020;Expense;Bank Account Marcus;Fees and Subscriptions;72,00;EUR
+26.04.2020;Expense;Bank Account Marcus;Fees and Subscriptions;90,08;EUR
+27.04.2020;Expense;Bank Account Marcus;Fees and Subscriptions;13,39;EUR
+27.04.2020;Expense;Bank Account Marcus;Rent;920,72;EUR
+28.04.2020;Expense;Bank Account Marcus;Health Care;60,00;EUR
+28.04.2020;Income;Bank Account Marcus;Salary Sophie ;916,33;EUR
+29.04.2020;Expense;Bank Account Marcus;Cosmetics and Care;11,70;EUR
+29.04.2020;Expense;Bank Account Marcus;Food;36,95;EUR
+29.04.2020;Expense;Bank Account Marcus;Food;5,48;EUR
+29.04.2020;Expense;Bank Account Marcus;Food;28,98;EUR
+29.04.2020;Expense;Bank Account Marcus;Fees and Subscriptions;49,98;EUR
+29.04.2020;Income;Bank Account Sophie;Salary Marcus 2;613,50;EUR
+01.05.2020;Income;Bank Account Sophie;Salary Sophie ;1,20;EUR
+01.05.2020;Expense;Bank Account Sophie;Food;11,41;EUR
+01.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;4,94;EUR
+01.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+04.05.2020;Expense;Bank Account Marcus;Food;8,06;EUR
+04.05.2020;Expense;Bank Account Marcus;Food;82,76;EUR
+05.05.2020;Income;Cash Marcus;Salary Sophie ;10,87;EUR
+07.05.2020;Income;Bank Account Sophie;Salary Sophie ;26,00;EUR
+07.05.2020;Expense;Cash Marcus;Cosmetics and Care;24,00;EUR
+07.05.2020;Expense;Bank Account Sophie;Food;23,52;EUR
+07.05.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+09.05.2020;Expense;Cash Marcus;Food;40,70;EUR
+09.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;18,60;EUR
+09.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;4,99;EUR
+09.05.2020;Expense;Bank Account Marcus;Food;15,47;EUR
+09.05.2020;Expense;Bank Account Marcus;Travels;45,60;EUR
+09.05.2020;Expense;Bank Account Marcus;Food;28,27;EUR
+09.05.2020;Expense;Bank Account Marcus;Food;30,95;EUR
+09.05.2020;Expense;Bank Account Marcus;Food;26,60;EUR
+10.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+10.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+12.05.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+12.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+14.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;24,89;EUR
+14.05.2020;Expense;Cash Marcus;Food;3,73;EUR
+14.05.2020;Expense;Bank Account Marcus;Food;55,58;EUR
+14.05.2020;Expense;Bank Account Marcus;Home Equipment;108,31;EUR
+15.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+15.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;229,58;EUR
+15.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;148,10;EUR
+16.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;45,00;EUR
+16.05.2020;Expense;Bank Account Marcus;Food;29,80;EUR
+18.05.2020;Expense;Bank Account Sophie;Consumer Credit;515,57;EUR
+18.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;183,55;EUR
+18.05.2020;Expense;Bank Account Marcus;Cosmetics and Care;29,47;EUR
+19.05.2020;Expense;Bank Account Sophie;Food;104,12;EUR
+20.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;9,25;EUR
+20.05.2020;Expense;Bank Account Sophie;Fun and Rest;120,00;EUR
+20.05.2020;Expense;Bank Account Sophie;Unidentified;12,00;EUR
+21.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+21.05.2020;Expense;Bank Account Marcus;Health Care;60,00;EUR
+25.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;91,00;EUR
+25.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+25.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;13,30;EUR
+26.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;13,37;EUR
+26.05.2020;Expense;Bank Account Marcus;Food;53,00;EUR
+27.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;179,00;EUR
+27.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;68,27;EUR
+27.05.2020;Expense;Bank Account Marcus;Cosmetics and Care;9,33;EUR
+27.05.2020;Expense;Bank Account Marcus;Food;74,95;EUR
+28.05.2020;Income;Bank Account Sophie;Salary Marcus 2;592,44;EUR
+28.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,34;EUR
+28.05.2020;Expense;Bank Account Marcus;Food;13,58;EUR
+28.05.2020;Expense;Bank Account Marcus;Fees and Subscriptions;49,98;EUR
+28.05.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+28.05.2020;Expense;Bank Account Marcus;Health Care;60,00;EUR
+29.05.2020;Income;Bank Account Marcus;Salary Marcus;1121,90;EUR
+30.05.2020;Expense;Bank Account Sophie;Cosmetics and Care;8,77;EUR
+30.05.2020;Expense;Bank Account Sophie;Fees and Subscriptions;47,96;EUR
+30.05.2020;Expense;Bank Account Marcus;Food;34,46;EUR
+31.05.2020;Expense;Bank Account Marcus;Food;35,40;EUR
+01.06.2020;Income;Bank Account Sophie;Salary Sophie ;1,67;EUR
+01.06.2020;Income;Bank Account Sophie;Salary Sophie ;200,00;EUR
+01.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+01.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+02.06.2020;Expense;Bank Account Marcus;Food;5,99;EUR
+02.06.2020;Expense;Bank Account Marcus;Food;42,28;EUR
+02.06.2020;Expense;Bank Account Sophie;Food;11,95;EUR
+02.06.2020;Expense;Bank Account Sophie;Health Care;26,75;EUR
+02.06.2020;Expense;Bank Account Sophie;Cosmetics and Care;19,60;EUR
+02.06.2020;Expense;Bank Account Sophie;Food;6,66;EUR
+02.06.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+05.06.2020;Income;Bank Account Sophie;Salary Sophie ;26,00;EUR
+05.06.2020;Expense;Bank Account Marcus;Food;3,67;EUR
+05.06.2020;Expense;Bank Account Marcus;Food;60,73;EUR
+06.06.2020;Expense;Bank Account Marcus;Food;34,13;EUR
+08.06.2020;Expense;Bank Account Marcus;Food;10,73;EUR
+08.06.2020;Expense;Bank Account Marcus;Transport;1,90;EUR
+09.06.2020;Expense;Bank Account Sophie;Food;15,71;EUR
+09.06.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+09.06.2020;Expense;Bank Account Marcus;Food;10,96;EUR
+09.06.2020;Expense;Bank Account Marcus;Food;0,60;EUR
+10.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+10.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+11.06.2020;Income;Bank Account Sophie;Salary Sophie ;13,00;EUR
+11.06.2020;Income;Bank Account Marcus;Salary Marcus;1121,90;EUR
+12.06.2020;Expense;Bank Account Sophie;Home Equipment;9,52;EUR
+12.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;107,29;EUR
+12.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+12.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,05;EUR
+12.06.2020;Expense;Bank Account Marcus;Clothes;16,00;EUR
+12.06.2020;Expense;Bank Account Marcus;Cosmetics and Care;15,95;EUR
+13.06.2020;Expense;Cash Sophie ;Food;3,80;EUR
+13.06.2020;Income;Cash Marcus;Salary Sophie ;40,00;EUR
+14.06.2020;Expense;Cash Marcus;Food;0,07;EUR
+15.06.2020;Expense;Bank Account Sophie;Clothes;25,00;EUR
+15.06.2020;Expense;Bank Account Sophie;Clothes;9,11;EUR
+15.06.2020;Expense;Cash Marcus;Food;20,60;EUR
+15.06.2020;Expense;Bank Account Marcus;Food;1,39;EUR
+15.06.2020;Expense;Bank Account Marcus;Food;5,18;EUR
+15.06.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+15.06.2020;Expense;Bank Account Marcus;Fun and Rest;65,00;EUR
+15.06.2020;Expense;Bank Account Marcus;Unidentified;14,90;EUR
+16.06.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+16.06.2020;Expense;Bank Account Sophie;Food;22,02;EUR
+16.06.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+17.06.2020;Expense;Bank Account Sophie;Cosmetics and Care;65,94;EUR
+17.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+17.06.2020;Expense;Bank Account Marcus;Food;19,83;EUR
+18.06.2020;Expense;Bank Account Sophie;Fun and Rest;119,00;EUR
+18.06.2020;Expense;Bank Account Marcus;Food;14,81;EUR
+18.06.2020;Expense;Bank Account Marcus;Food;13,46;EUR
+19.06.2020;Expense;Bank Account Sophie;Food;49,30;EUR
+19.06.2020;Expense;Bank Account Sophie;Transport;22,50;EUR
+19.06.2020;Expense;Bank Account Sophie;Cosmetics and Care;300,00;EUR
+19.06.2020;Expense;Bank Account Marcus;Cosmetics and Care;19,09;EUR
+19.06.2020;Expense;Bank Account Marcus;Food;6,03;EUR
+19.06.2020;Expense;Bank Account Marcus;Food;11,45;EUR
+19.06.2020;Expense;Bank Account Marcus;Food;22,70;EUR
+19.06.2020;Expense;Bank Account Marcus;Clothes;75,84;EUR
+19.06.2020;Expense;Bank Account Sophie;Consumer Credit;567,13;EUR
+19.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;183,55;EUR
+19.06.2020;Expense;Bank Account Marcus;Unidentified;29,98;EUR
+19.06.2020;Expense;Bank Account Marcus;Transport;4,80;EUR
+20.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;2,99;EUR
+20.06.2020;Expense;Bank Account Marcus;Food;4,05;EUR
+20.06.2020;Expense;Bank Account Marcus;Transport;1,80;EUR
+21.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+21.06.2020;Expense;Bank Account Marcus;Food;23,54;EUR
+21.06.2020;Expense;Bank Account Marcus;Transport;15,20;EUR
+22.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,95;EUR
+22.06.2020;Expense;Bank Account Marcus;Education;22,62;EUR
+22.06.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+22.06.2020;Expense;Bank Account Marcus;Food;14,10;EUR
+22.06.2020;Expense;Bank Account Marcus;Home Equipment;2,98;EUR
+22.06.2020;Expense;Bank Account Marcus;Transport;4,80;EUR
+22.06.2020;Expense;Bank Account Marcus;Home Equipment;22,99;EUR
+22.06.2020;Expense;Bank Account Marcus;Home Equipment;17,42;EUR
+22.06.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+23.06.2020;Expense;Bank Account Sophie;Cosmetics and Care;18,20;EUR
+23.06.2020;Expense;Bank Account Sophie;Cosmetics and Care;10,54;EUR
+23.06.2020;Expense;Bank Account Marcus;Food;23,26;EUR
+24.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;49,98;EUR
+24.06.2020;Expense;Bank Account Marcus;Transport;3,20;EUR
+24.06.2020;Expense;Bank Account Sophie;Transport;233,29;EUR
+24.06.2020;Expense;Bank Account Sophie;Transport;93,90;EUR
+25.06.2020;Expense;Bank Account Sophie;Fun and Rest;384,99;EUR
+25.06.2020;Expense;Bank Account Sophie;Food;28,00;EUR
+25.06.2020;Expense;Bank Account Sophie;Clothes;180,66;EUR
+25.06.2020;Expense;Bank Account Sophie;Food;45,62;EUR
+25.06.2020;Expense;Bank Account Sophie;Food;20,85;EUR
+26.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;76,49;EUR
+26.06.2020;Expense;Bank Account Sophie;Cosmetics and Care;87,63;EUR
+26.06.2020;Expense;Bank Account Sophie;Food;25,00;EUR
+26.06.2020;Expense;Bank Account Sophie;Food;7,75;EUR
+28.06.2020;Expense;Bank Account Sophie;Fun and Rest;500,00;EUR
+28.06.2020;Expense;Bank Account Sophie;Food;14,90;EUR
+28.06.2020;Expense;Bank Account Sophie;Food;26,58;EUR
+29.06.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,75;EUR
+29.06.2020;Income;Bank Account Sophie;Salary Marcus 2;537,70;EUR
+29.06.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+29.06.2020;Expense;Bank Account Sophie;Food;18,30;EUR
+29.06.2020;Expense;Bank Account Sophie;Food;22,32;EUR
+29.06.2020;Expense;Bank Account Sophie;Health Care;119,28;EUR
+29.06.2020;Expense;Bank Account Sophie;Education;109,82;EUR
+30.06.2020;Income;Bank Account Marcus;Salary Sophie ;9,25;EUR
+01.07.2020;Income;Bank Account Sophie;Salary Sophie ;1420,36;EUR
+01.07.2020;Expense;Bank Account Marcus;Transport;15,21;EUR
+01.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+01.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;105,00;EUR
+01.07.2020;Expense;Bank Account Sophie;Food;63,44;EUR
+01.07.2020;Expense;Bank Account Sophie;Food;53,50;EUR
+01.07.2020;Expense;Bank Account Sophie;Food;33,97;EUR
+01.07.2020;Expense;Bank Account Sophie;Transport;406,33;EUR
+01.07.2020;Expense;Bank Account Sophie;Food;17,16;EUR
+01.07.2020;Expense;Bank Account Sophie;Transport;93,90;EUR
+02.07.2020;Expense;Bank Account Sophie;Unidentified;7,00;EUR
+03.07.2020;Expense;Bank Account Sophie;Fees and Subscriptions;180,73;EUR
+04.07.2020;Expense;Bank Account Marcus;Food;50,00;EUR
+04.07.2020;Expense;Bank Account Marcus;Transport;8,60;EUR
+04.07.2020;Expense;Bank Account Marcus;Health Care;42,68;EUR
+04.07.2020;Expense;Cash Sophie ;Food;2,60;EUR
+04.07.2020;Income;Bank Account Sophie;Salary Sophie ;185,00;EUR
+04.07.2020;Income;Cash Marcus;Salary Marcus;250,00;EUR
+05.07.2020;Income;Cash Marcus;Salary Sophie ;746,13;EUR
+05.07.2020;Income;Bank Account Marcus;Salary Sophie ;165,58;EUR
+06.07.2020;Income;Bank Account Marcus;Salary Sophie ;100,00;EUR
+06.07.2020;Income;Cash Sophie ;Salary Sophie ;92,10;EUR
+06.07.2020;Expense;Cash Marcus;Food;16,80;EUR
+06.07.2020;Expense;Bank Account Sophie;Food;3,70;EUR
+06.07.2020;Expense;Bank Account Sophie;Transport;3,60;EUR
+08.07.2020;Expense;Bank Account Sophie;Food;7,74;EUR
+08.07.2020;Expense;Bank Account Sophie;Food;10,71;EUR
+08.07.2020;Expense;Bank Account Sophie;Cosmetics and Care;179,00;EUR
+08.07.2020;Expense;Bank Account Sophie;Food;12,10;EUR
+08.07.2020;Expense;Bank Account Marcus;Food;1,95;EUR
+09.07.2020;Expense;Bank Account Marcus;Food;1,75;EUR
+09.07.2020;Expense;Bank Account Sophie;Fees and Subscriptions;172,77;EUR
+09.07.2020;Income;Bank Account Sophie;Salary Sophie ;26,00;EUR
+09.07.2020;Expense;Cash Marcus;Food;41,00;EUR
+09.07.2020;Expense;Bank Account Marcus;Food;1,92;EUR
+09.07.2020;Expense;Bank Account Marcus;Unidentified;3,10;EUR
+09.07.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+09.07.2020;Expense;Bank Account Marcus;Food;10,23;EUR
+09.07.2020;Expense;Bank Account Marcus;Cosmetics and Care;36,07;EUR
+09.07.2020;Expense;Bank Account Marcus;Food;7,49;EUR
+10.07.2020;Income;Cash Marcus;Salary Marcus;20,00;EUR
+10.07.2020;Income;Bank Account Sophie;Salary Sophie ;13,00;EUR
+10.07.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+10.07.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+11.07.2020;Expense;Cash Marcus;Food;49,00;EUR
+11.07.2020;Expense;Cash Sophie ;Food;14,30;EUR
+11.07.2020;Expense;Bank Account Marcus;Food;17,80;EUR
+11.07.2020;Expense;Bank Account Marcus;Food;6,23;EUR
+11.07.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+11.07.2020;Expense;Bank Account Marcus;Transport;5,00;EUR
+12.07.2020;Expense;Bank Account Marcus;Food;39,30;EUR
+14.07.2020;Income;Cash Marcus;Salary Marcus;263,20;EUR
+14.07.2020;Expense;Bank Account Marcus;Transport;1,80;EUR
+14.07.2020;Expense;Bank Account Marcus;Food;46,07;EUR
+14.07.2020;Income;Bank Account Marcus;Salary Marcus;1594,37;EUR
+14.07.2020;Expense;Bank Account Marcus;Transport;2,00;EUR
+14.07.2020;Expense;Bank Account Marcus;Transport;1,80;EUR
+14.07.2020;Expense;Bank Account Sophie;Food;5,95;EUR
+14.07.2020;Expense;Bank Account Sophie;Food;0,72;EUR
+14.07.2020;Expense;Bank Account Sophie;Food;9,19;EUR
+15.07.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+15.07.2020;Expense;Bank Account Marcus;Education;14,58;EUR
+15.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;107,29;EUR
+15.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+15.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,05;EUR
+16.07.2020;Expense;Bank Account Marcus;Transport;5,40;EUR
+16.07.2020;Expense;Bank Account Sophie;Cosmetics and Care;1,45;EUR
+17.07.2020;Expense;Bank Account Marcus;Food;50,00;EUR
+17.07.2020;Expense;Bank Account Marcus;Transport;6,00;EUR
+17.07.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+18.07.2020;Expense;Bank Account Sophie;Consumer Credit;481,20;EUR
+19.07.2020;Expense;Bank Account Sophie;Cosmetics and Care;24,86;EUR
+20.07.2020;Expense;Bank Account Marcus;Education;12,90;EUR
+20.07.2020;Expense;Bank Account Marcus;Food;13,89;EUR
+20.07.2020;Expense;Bank Account Marcus;Cosmetics and Care;16,12;EUR
+20.07.2020;Expense;Bank Account Marcus;Food;38,69;EUR
+20.07.2020;Expense;Bank Account Marcus;Transport;3,60;EUR
+20.07.2020;Income;Cash Marcus;Salary Marcus;522,80;EUR
+21.07.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+21.07.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+21.07.2020;Expense;Cash Marcus;Food;8,70;EUR
+22.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,05;EUR
+22.07.2020;Expense;Bank Account Marcus;Education;43,21;EUR
+23.07.2020;Expense;Bank Account Sophie;Unidentified;10,00;EUR
+24.07.2020;Expense;Bank Account Sophie;Transport;8,00;EUR
+24.07.2020;Expense;Bank Account Marcus;Food;59,30;EUR
+24.07.2020;Expense;Bank Account Marcus;Food;30,50;EUR
+24.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;61,80;EUR
+25.07.2020;Expense;Bank Account Sophie;Fun and Rest;52,50;EUR
+25.07.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+25.07.2020;Expense;Bank Account Marcus;Fun and Rest;20,00;EUR
+25.07.2020;Expense;Bank Account Marcus;Food;46,60;EUR
+26.07.2020;Expense;Cash Sophie ;Fun and Rest;15,40;EUR
+26.07.2020;Expense;Cash Marcus;Fun and Rest;58,30;EUR
+26.07.2020;Expense;Bank Account Sophie;Fun and Rest;30,00;EUR
+26.07.2020;Expense;Bank Account Marcus;Fun and Rest;8,80;EUR
+26.07.2020;Expense;Bank Account Marcus;Food;45,00;EUR
+26.07.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+27.07.2020;Expense;Bank Account Sophie;Cosmetics and Care;9,31;EUR
+27.07.2020;Expense;Bank Account Sophie;Food;3,20;EUR
+27.07.2020;Expense;Bank Account Marcus;Food;45,70;EUR
+27.07.2020;Expense;Bank Account Marcus;Food;4,40;EUR
+27.07.2020;Expense;Bank Account Marcus;Food;20,53;EUR
+29.07.2020;Expense;Bank Account Sophie;Clothes;189,29;EUR
+29.07.2020;Income;Bank Account Sophie;Salary Marcus 2;600,79;EUR
+30.07.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+31.07.2020;Expense;Bank Account Marcus;Food;12,13;EUR
+31.07.2020;Expense;Bank Account Marcus;Health Care;120,00;EUR
+31.07.2020;Expense;Bank Account Marcus;Home Equipment;200,00;EUR
+31.07.2020;Expense;Bank Account Marcus;Home Equipment;350,00;EUR
+31.07.2020;Expense;Bank Account Sophie;Transport;40,00;EUR
+31.07.2020;Expense;Bank Account Sophie;Food;20,59;EUR
+31.07.2020;Expense;Bank Account Sophie;Fun and Rest;130,70;EUR
+31.07.2020;Expense;Bank Account Sophie;Food;13,60;EUR
+31.07.2020;Expense;Bank Account Sophie;Unidentified;2,95;EUR
+31.07.2020;Expense;Bank Account Marcus;Transport;2,87;EUR
+31.07.2020;Expense;Bank Account Marcus;Transport;1,70;EUR
+31.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;48,72;EUR
+31.07.2020;Expense;Cash Sophie ;Food;0,10;EUR
+31.07.2020;Expense;Bank Account Sophie;Transport;5,80;EUR
+31.07.2020;Expense;Bank Account Sophie;Transport;34,96;EUR
+31.07.2020;Expense;Bank Account Sophie;Food;19,50;EUR
+31.07.2020;Expense;Bank Account Sophie;Clothes;49,00;EUR
+31.07.2020;Expense;Bank Account Sophie;Food;6,29;EUR
+31.07.2020;Expense;Bank Account Sophie;Cosmetics and Care;20,85;EUR
+31.07.2020;Income;Bank Account Sophie;Salary Sophie ;117,17;EUR
+31.07.2020;Expense;Bank Account Marcus;Food;8,32;EUR
+31.07.2020;Expense;Bank Account Marcus;Food;5,78;EUR
+31.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,50;EUR
+31.07.2020;Expense;Bank Account Marcus;Food;20,80;EUR
+31.07.2020;Expense;Bank Account Marcus;Fees and Subscriptions;24,49;EUR
+31.07.2020;Expense;Bank Account Marcus;Transport;38,96;EUR
+01.08.2020;Expense;Bank Account Marcus;Transport;18,60;EUR
+01.08.2020;Expense;Bank Account Sophie;Fees and Subscriptions;1,00;EUR
+01.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+02.08.2020;Expense;Bank Account Sophie;Food;0,10;EUR
+03.08.2020;Income;Bank Account Sophie;Salary Sophie ;49,00;EUR
+03.08.2020;Income;Cash Marcus;Salary Marcus;435,20;EUR
+03.08.2020;Income;Bank Account Sophie;Salary Sophie ;800,00;EUR
+03.08.2020;Expense;Bank Account Marcus;Food;30,83;EUR
+03.08.2020;Expense;Bank Account Marcus;Cosmetics and Care;12,01;EUR
+04.08.2020;Expense;Bank Account Marcus;Food;14,11;EUR
+05.08.2020;Expense;Cash Marcus;Food;21,30;EUR
+05.08.2020;Expense;Cash Marcus;Cosmetics and Care;7,20;EUR
+05.08.2020;Expense;Bank Account Marcus;Home Equipment;25,32;EUR
+05.08.2020;Expense;Bank Account Marcus;Food;17,80;EUR
+05.08.2020;Expense;Bank Account Marcus;Food;0,60;EUR
+05.08.2020;Income;Bank Account Sophie;Salary Sophie ;400,00;EUR
+05.08.2020;Expense;Bank Account Sophie;Transport;21,48;EUR
+05.08.2020;Income;Bank Account Sophie;Salary Sophie ;267,00;EUR
+06.08.2020;Expense;Cash Marcus;Food;29,50;EUR
+06.08.2020;Expense;Bank Account Marcus;Food;4,35;EUR
+07.08.2020;Expense;Bank Account Marcus;Food;12,10;EUR
+07.08.2020;Expense;Bank Account Marcus;Fun and Rest;9,00;EUR
+07.08.2020;Expense;Bank Account Marcus;Food;5,72;EUR
+07.08.2020;Expense;Bank Account Marcus;Food;40,70;EUR
+08.08.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+08.08.2020;Expense;Bank Account Marcus;Food;21,25;EUR
+08.08.2020;Expense;Bank Account Sophie;Transport;15,60;EUR
+08.08.2020;Expense;Bank Account Sophie;Clothes;24,35;EUR
+09.08.2020;Expense;Bank Account Sophie;Health Care;80,00;EUR
+09.08.2020;Expense;Bank Account Sophie;Food;26,45;EUR
+09.08.2020;Expense;Bank Account Sophie;Food;22,90;EUR
+09.08.2020;Expense;Bank Account Sophie;Rent;600,00;EUR
+09.08.2020;Expense;Bank Account Sophie;Rent;517,28;EUR
+09.08.2020;Expense;Bank Account Marcus;Transport;1,70;EUR
+09.08.2020;Expense;Bank Account Marcus;Food;3,34;EUR
+10.08.2020;Expense;Bank Account Sophie;Health Care;54,83;EUR
+10.08.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+10.08.2020;Income;Cash Marcus;Salary Sophie ;20,00;EUR
+10.08.2020;Expense;Cash Marcus;Cosmetics and Care;24,00;EUR
+10.08.2020;Expense;Bank Account Marcus;Transport;2,60;EUR
+10.08.2020;Expense;Bank Account Marcus;Food;16,44;EUR
+11.08.2020;Income;Bank Account Sophie;Salary Sophie ;97,29;EUR
+11.08.2020;Income;Bank Account Sophie;Salary Sophie ;1523,00;EUR
+12.08.2020;Expense;Bank Account Marcus;Transport;2,20;EUR
+12.08.2020;Expense;Bank Account Marcus;Transport;2,00;EUR
+13.08.2020;Expense;Bank Account Marcus;Food;21,16;EUR
+13.08.2020;Income;Bank Account Marcus;Salary Marcus;1591,65;EUR
+14.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,90;EUR
+14.08.2020;Income;Bank Account Sophie;Salary Sophie ;1523,10;EUR
+14.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+14.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;100,14;EUR
+14.08.2020;Income;Bank Account Sophie;Salary Sophie ;1300,00;EUR
+17.08.2020;Expense;Bank Account Marcus;Food;5,78;EUR
+18.08.2020;Income;Bank Account Marcus;Salary Sophie ;777,15;EUR
+19.08.2020;Expense;Bank Account Sophie;Travels;20,00;EUR
+19.08.2020;Expense;Bank Account Sophie;Consumer Credit;465,01;EUR
+19.08.2020;Expense;Bank Account Marcus;Food;12,20;EUR
+19.08.2020;Expense;Bank Account Marcus;Food;23,87;EUR
+20.08.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+20.08.2020;Expense;Bank Account Marcus;Food;3,95;EUR
+20.08.2020;Expense;Bank Account Marcus;Fun and Rest;8,80;EUR
+20.08.2020;Expense;Bank Account Marcus;Transport;2,20;EUR
+21.08.2020;Expense;Bank Account Sophie;Food;29,79;EUR
+21.08.2020;Expense;Bank Account Sophie;Cosmetics and Care;93,11;EUR
+21.08.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+21.08.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+22.08.2020;Expense;Bank Account Marcus;Food;10,46;EUR
+22.08.2020;Expense;Bank Account Marcus;Food;9,00;EUR
+23.08.2020;Expense;Bank Account Marcus;Fun and Rest;90,00;EUR
+23.08.2020;Expense;Bank Account Marcus;Fun and Rest;27,00;EUR
+23.08.2020;Expense;Bank Account Marcus;Food;18,60;EUR
+24.08.2020;Expense;Bank Account Marcus;Unidentified;6,40;EUR
+24.08.2020;Income;Bank Account Sophie;Apartment Renting ;200,00;EUR
+24.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,00;EUR
+25.08.2020;Expense;Bank Account Sophie;Food;12,34;EUR
+25.08.2020;Expense;Bank Account Marcus;Food;24,22;EUR
+25.08.2020;Expense;Bank Account Marcus;Food;4,97;EUR
+25.08.2020;Expense;Bank Account Marcus;Transport;5,00;EUR
+26.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;101,74;EUR
+26.08.2020;Expense;Bank Account Sophie;Health Care;29,19;EUR
+26.08.2020;Expense;Bank Account Sophie;Unidentified;1,95;EUR
+26.08.2020;Income;Bank Account Sophie;Salary Sophie ;200,00;EUR
+27.08.2020;Expense;Bank Account Marcus;Food;19,14;EUR
+27.08.2020;Expense;Bank Account Marcus;Education;29,97;EUR
+27.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;4,60;EUR
+27.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;48,72;EUR
+28.08.2020;Income;Bank Account Sophie;Salary Marcus 2;329,15;EUR
+28.08.2020;Expense;Bank Account Sophie;Cosmetics and Care;60,18;EUR
+28.08.2020;Expense;Bank Account Sophie;Fun and Rest;115,59;EUR
+28.08.2020;Expense;Bank Account Marcus;Food;10,78;EUR
+28.08.2020;Expense;Bank Account Marcus;Food;19,96;EUR
+28.08.2020;Expense;Bank Account Marcus;Rent;920,73;EUR
+29.08.2020;Expense;Bank Account Sophie;Food;45,00;EUR
+29.08.2020;Expense;Bank Account Sophie;Travels;70,50;EUR
+29.08.2020;Expense;Bank Account Sophie;Transport;18,00;EUR
+29.08.2020;Expense;Bank Account Sophie;Transport;24,48;EUR
+29.08.2020;Expense;Bank Account Marcus;Food;3,93;EUR
+30.08.2020;Expense;Bank Account Marcus;Food;4,60;EUR
+30.08.2020;Expense;Bank Account Sophie;Food;65,00;EUR
+30.08.2020;Expense;Cash Marcus;Food;21,40;EUR
+30.08.2020;Expense;Bank Account Sophie;Health Care;275,00;EUR
+30.08.2020;Expense;Bank Account Marcus;Transport;1,70;EUR
+30.08.2020;Expense;Bank Account Marcus;Food;9,81;EUR
+30.08.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,45;EUR
+31.08.2020;Expense;Bank Account Sophie;Cosmetics and Care;10,67;EUR
+31.08.2020;Expense;Bank Account Sophie;Clothes;24,99;EUR
+31.08.2020;Expense;Bank Account Sophie;Food;1,08;EUR
+31.08.2020;Expense;Bank Account Sophie;Cosmetics and Care;1,86;EUR
+31.08.2020;Expense;Bank Account Marcus;Health Care;9,95;EUR
+31.08.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,06;EUR
+31.08.2020;Expense;Bank Account Marcus;Food;20,11;EUR
+01.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;1,00;EUR
+01.09.2020;Income;Cash Marcus;Salary Marcus;252,70;EUR
+01.09.2020;Expense;Bank Account Sophie;Food;20,04;EUR
+01.09.2020;Expense;Bank Account Sophie;Clothes;40,00;EUR
+01.09.2020;Expense;Bank Account Sophie;Food;15,89;EUR
+01.09.2020;Expense;Bank Account Sophie;Health Care;60,00;EUR
+01.09.2020;Income;Bank Account Sophie;Salary Sophie ;650,00;EUR
+01.09.2020;Expense;Bank Account Marcus;Food;4,60;EUR
+01.09.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+01.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;44,00;EUR
+01.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;21,80;EUR
+01.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+02.09.2020;Expense;Bank Account Sophie;Clothes;10,00;EUR
+03.09.2020;Expense;Bank Account Marcus;Travels;31,43;EUR
+03.09.2020;Expense;Bank Account Marcus;Travels;306,68;EUR
+03.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;46,00;EUR
+03.09.2020;Expense;Bank Account Marcus;Cosmetics and Care;5,84;EUR
+03.09.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+03.09.2020;Expense;Bank Account Marcus;Food;29,54;EUR
+03.09.2020;Expense;Bank Account Marcus;Food;4,60;EUR
+04.09.2020;Expense;Cash Sophie ;Clothes;17,00;EUR
+04.09.2020;Expense;Cash Sophie ;Clothes;7,00;EUR
+04.09.2020;Expense;Cash Sophie ;Food;2,40;EUR
+04.09.2020;Expense;Bank Account Sophie;Food;2,60;EUR
+05.09.2020;Expense;Cash Marcus;Food;0,50;EUR
+05.09.2020;Expense;Bank Account Marcus;Food;4,35;EUR
+05.09.2020;Expense;Bank Account Marcus;Food;27,75;EUR
+05.09.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,79;EUR
+05.09.2020;Expense;Bank Account Marcus;Home Equipment;4,67;EUR
+05.09.2020;Expense;Bank Account Marcus;Food;6,18;EUR
+06.09.2020;Expense;Bank Account Sophie;Food;21,03;EUR
+06.09.2020;Expense;Bank Account Marcus;Cosmetics and Care;31,00;EUR
+06.09.2020;Expense;Bank Account Sophie;Health Care;613,71;EUR
+07.09.2020;Expense;Cash Sophie ;Food;21,30;EUR
+07.09.2020;Expense;Cash Marcus;Food;22,00;EUR
+07.09.2020;Income;Bank Account Sophie;Salary Sophie ;236,00;EUR
+07.09.2020;Expense;Bank Account Sophie;Food;16,77;EUR
+07.09.2020;Expense;Bank Account Sophie;Food;8,96;EUR
+07.09.2020;Expense;Bank Account Sophie;Food;5,00;EUR
+07.09.2020;Expense;Bank Account Marcus;Food;19,23;EUR
+08.09.2020;Expense;Bank Account Sophie;Food;13,76;EUR
+08.09.2020;Expense;Cash Marcus;Food;8,00;EUR
+08.09.2020;Expense;Bank Account Marcus;Transport;5,00;EUR
+08.09.2020;Income;Bank Account Sophie;Apartment Renting ;713,33;EUR
+09.09.2020;Expense;Bank Account Marcus;Food;3,95;EUR
+09.09.2020;Expense;Cash Sophie ;Food;3,40;EUR
+09.09.2020;Income;Bank Account Sophie;Salary Sophie ;300,00;EUR
+09.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+09.09.2020;Income;Cash Marcus;Salary Marcus;349,80;EUR
+10.09.2020;Expense;Bank Account Sophie;Transport;193,80;EUR
+10.09.2020;Expense;Bank Account Sophie;Food;40,82;EUR
+10.09.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+10.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;17,02;EUR
+10.09.2020;Expense;Bank Account Marcus;Transport;1,80;EUR
+11.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;91,00;EUR
+11.09.2020;Expense;Cash Marcus;Food;0,70;EUR
+11.09.2020;Expense;Cash Marcus;Food;8,85;EUR
+11.09.2020;Expense;Cash Marcus;Food;2,15;EUR
+11.09.2020;Expense;Cash Marcus;Food;5,40;EUR
+11.09.2020;Expense;Cash Marcus;Food;1,00;EUR
+11.09.2020;Expense;Bank Account Sophie;Food;50,00;EUR
+11.09.2020;Expense;Bank Account Sophie;Fun and Rest;13,00;EUR
+11.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;13,15;EUR
+11.09.2020;Income;Bank Account Sophie;Salary Sophie ;213,00;EUR
+12.09.2020;Expense;Bank Account Marcus;Food;43,14;EUR
+13.09.2020;Expense;Bank Account Marcus;Food;4,35;EUR
+14.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;75,00;EUR
+14.09.2020;Expense;Bank Account Sophie;Food;3,18;EUR
+14.09.2020;Expense;Bank Account Sophie;Food;5,98;EUR
+14.09.2020;Expense;Bank Account Marcus;Fun and Rest;15,49;EUR
+14.09.2020;Expense;Bank Account Marcus;Food;4,73;EUR
+14.09.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,45;EUR
+14.09.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+14.09.2020;Expense;Bank Account Marcus;Food;8,66;EUR
+15.09.2020;Expense;Bank Account Sophie;Food;6,76;EUR
+15.09.2020;Expense;Bank Account Sophie;Education;8,00;EUR
+15.09.2020;Expense;Bank Account Sophie;Unidentified;25,00;EUR
+15.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+15.09.2020;Expense;Bank Account Marcus;Transport;2,20;EUR
+15.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,00;EUR
+15.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,90;EUR
+15.09.2020;Income;Bank Account Marcus;Salary Marcus;1602,25;EUR
+16.09.2020;Expense;Bank Account Marcus;Transport;7,50;EUR
+16.09.2020;Expense;Bank Account Marcus;Food;8,00;EUR
+17.09.2020;Expense;Bank Account Sophie;Travels;93,90;EUR
+17.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+17.09.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+17.09.2020;Expense;Bank Account Sophie;Food;66,10;EUR
+17.09.2020;Expense;Bank Account Sophie;Food;42,97;EUR
+17.09.2020;Expense;Bank Account Sophie;Fun and Rest;25,50;EUR
+18.09.2020;Expense;Bank Account Sophie;Rent;400,00;EUR
+18.09.2020;Expense;Bank Account Sophie;Consumer Credit;480,01;EUR
+18.09.2020;Expense;Bank Account Sophie;Rent;109,35;EUR
+18.09.2020;Expense;Bank Account Sophie;Rent;111,39;EUR
+20.09.2020;Expense;Cash Marcus;Food;2,00;EUR
+20.09.2020;Expense;Bank Account Marcus;Food;11,51;EUR
+21.09.2020;Income;Bank Account Marcus;Salary Sophie ;800,00;EUR
+21.09.2020;Income;Cash Marcus;Salary Sophie ;100,00;EUR
+21.09.2020;Expense;Bank Account Sophie;Food;6,55;EUR
+21.09.2020;Expense;Bank Account Sophie;Clothes;20,00;EUR
+21.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;9,28;EUR
+21.09.2020;Expense;Bank Account Sophie;Health Care;69,95;EUR
+21.09.2020;Expense;Bank Account Sophie;Food;80,00;EUR
+21.09.2020;Expense;Bank Account Sophie;Health Care;24,97;EUR
+21.09.2020;Expense;Bank Account Sophie;Food;68,70;EUR
+21.09.2020;Expense;Bank Account Sophie;Health Care;113,33;EUR
+21.09.2020;Expense;Bank Account Sophie;Education;150,62;EUR
+21.09.2020;Expense;Bank Account Sophie;Travels;100,00;EUR
+22.09.2020;Expense;Bank Account Marcus;Health Care;42,00;EUR
+22.09.2020;Expense;Bank Account Marcus;Transport;60,00;EUR
+22.09.2020;Expense;Bank Account Marcus;Unidentified;14,00;EUR
+22.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;5,99;EUR
+22.09.2020;Expense;Bank Account Sophie;Food;108,83;EUR
+22.09.2020;Expense;Bank Account Marcus;Clothes;24,00;EUR
+23.09.2020;Expense;Bank Account Marcus;Travels;5,75;EUR
+23.09.2020;Expense;Bank Account Marcus;Travels;93,90;EUR
+23.09.2020;Expense;Bank Account Marcus;Travels;211,60;EUR
+23.09.2020;Expense;Cash Sophie ;Transport;2,00;EUR
+23.09.2020;Expense;Bank Account Marcus;Food;37,20;EUR
+23.09.2020;Expense;Bank Account Marcus;Travels;250,00;EUR
+23.09.2020;Expense;Bank Account Marcus;Food;43,00;EUR
+23.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,10;EUR
+23.09.2020;Expense;Bank Account Marcus;Food;18,28;EUR
+23.09.2020;Expense;Bank Account Marcus;Food;1,45;EUR
+23.09.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+23.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;71,91;EUR
+24.09.2020;Expense;Bank Account Sophie;Food;5,05;EUR
+24.09.2020;Expense;Bank Account Marcus;Health Care;56,60;EUR
+25.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;1,45;EUR
+25.09.2020;Expense;Bank Account Sophie;Health Care;3,69;EUR
+25.09.2020;Expense;Bank Account Sophie;Cosmetics and Care;3,69;EUR
+25.09.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+25.09.2020;Expense;Bank Account Sophie;Fun and Rest;89,00;EUR
+25.09.2020;Expense;Bank Account Marcus;Food;38,91;EUR
+25.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;4,46;EUR
+25.09.2020;Income;Bank Account Sophie;Salary Marcus 2;640,68;EUR
+26.09.2020;Expense;Bank Account Marcus;Food;36,90;EUR
+27.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,00;EUR
+28.09.2020;Expense;Bank Account Marcus;Food;4,54;EUR
+28.09.2020;Expense;Bank Account Marcus;Food;35,92;EUR
+29.09.2020;Income;Bank Account Sophie;Salary Marcus 2;187,72;EUR
+29.09.2020;Expense;Bank Account Marcus;Fees and Subscriptions;48,72;EUR
+30.09.2020;Expense;Bank Account Sophie;Food;8,01;EUR
+30.09.2020;Expense;Bank Account Sophie;Food;5,24;EUR
+30.09.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+30.09.2020;Expense;Bank Account Sophie;Food;3,50;EUR
+30.09.2020;Expense;Bank Account Marcus;Rent;953,64;EUR
+30.09.2020;Expense;Bank Account Sophie;Travels;50,00;EUR
+30.09.2020;Expense;Cash Marcus;Travels;50,00;EUR
+01.10.2020;Expense;Bank Account Sophie;Fees and Subscriptions;1,00;EUR
+01.10.2020;Expense;Bank Account Sophie;Food;9,86;EUR
+01.10.2020;Expense;Bank Account Sophie;Cosmetics and Care;6,37;EUR
+01.10.2020;Expense;Bank Account Sophie;Food;1,69;EUR
+01.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.10.2020;Expense;Bank Account Marcus;Rent;44,00;EUR
+01.10.2020;Income;Bank Account Sophie;Other;650,00;EUR
+02.10.2020;Expense;Bank Account Marcus;Food;16,30;EUR
+02.10.2020;Expense;Bank Account Marcus;Food;4,90;EUR
+02.10.2020;Expense;Bank Account Marcus;Transport;10,40;EUR
+02.10.2020;Expense;Cash Marcus;Food;81,45;EUR
+02.10.2020;Expense;Cash Marcus;Food;1,45;EUR
+03.10.2020;Expense;Bank Account Sophie;Clothes;46,99;EUR
+05.10.2020;Expense;Bank Account Sophie;Food;5,07;EUR
+05.10.2020;Expense;Bank Account Sophie;Food;14,98;EUR
+05.10.2020;Expense;Bank Account Sophie;Cosmetics and Care;19,00;EUR
+06.10.2020;Expense;Bank Account Sophie;Food;14,75;EUR
+06.10.2020;Expense;Bank Account Sophie;Rented Flat ;300,00;EUR
+06.10.2020;Income;Bank Account Sophie;Apartment Renting ;1594,32;EUR
+07.10.2020;Expense;Bank Account Sophie;Food;7,84;EUR
+07.10.2020;Income;Bank Account Sophie;Other;426,00;EUR
+08.10.2020;Income;Cash Marcus;Salary Marcus;430,70;EUR
+08.10.2020;Expense;Bank Account Sophie;Food;14,09;EUR
+08.10.2020;Expense;Bank Account Sophie;Food;6,94;EUR
+08.10.2020;Expense;Bank Account Sophie;Cosmetics and Care;12,90;EUR
+08.10.2020;Expense;Bank Account Sophie;Cosmetics and Care;0,97;EUR
+08.10.2020;Expense;Bank Account Sophie;Food;0,97;EUR
+09.10.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+09.10.2020;Expense;Bank Account Marcus;Food;8,40;EUR
+09.10.2020;Expense;Bank Account Sophie;Food;3,50;EUR
+09.10.2020;Expense;Bank Account Sophie;Food;26,13;EUR
+09.10.2020;Expense;Bank Account Sophie;Food;5,90;EUR
+10.10.2020;Expense;Bank Account Sophie;Clothes;19,49;EUR
+10.10.2020;Expense;Bank Account Sophie;Clothes;13,63;EUR
+10.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,46;EUR
+10.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;32,11;EUR
+10.10.2020;Expense;Bank Account Sophie;Clothes;99,98;EUR
+11.10.2020;Expense;Bank Account Marcus;Clothes;8,95;EUR
+11.10.2020;Expense;Bank Account Marcus;Food;1,59;EUR
+11.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;19,12;EUR
+11.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;77,00;EUR
+11.10.2020;Expense;Bank Account Marcus;Home Equipment;53,35;EUR
+11.10.2020;Expense;Bank Account Marcus;Food;30,26;EUR
+11.10.2020;Expense;Bank Account Marcus;Food;4,49;EUR
+11.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;2,90;EUR
+11.10.2020;Expense;Cash Marcus;Food;24,70;EUR
+12.10.2020;Expense;Bank Account Sophie;Food;11,52;EUR
+12.10.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+12.10.2020;Income;Bank Account Sophie;Other;413,00;EUR
+12.10.2020;Expense;Bank Account Sophie;Cosmetics and Care;19,95;EUR
+13.10.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+13.10.2020;Expense;Cash Marcus;Food;6,00;EUR
+13.10.2020;Expense;Bank Account Marcus;Clothes;12,66;EUR
+13.10.2020;Expense;Bank Account Marcus;Travels;29,23;EUR
+13.10.2020;Expense;Bank Account Marcus;Food;5,94;EUR
+13.10.2020;Income;Bank Account Marcus;Salary Marcus;1696,00;EUR
+13.10.2020;Expense;Cash Marcus;Food;11,15;EUR
+14.10.2020;Income;Cash Marcus;Salary Marcus;226,00;EUR
+14.10.2020;Expense;Bank Account Sophie;Home Equipment;15,66;EUR
+15.10.2020;Expense;Cash Marcus;Health Care;9,32;EUR
+15.10.2020;Expense;Bank Account Marcus;Food;10,30;EUR
+15.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,90;EUR
+15.10.2020;Expense;Bank Account Marcus;Consumer Credit;63,00;EUR
+16.10.2020;Expense;Cash Marcus;Food;41,20;EUR
+16.10.2020;Expense;Bank Account Marcus;Food;3,90;EUR
+16.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;37,79;EUR
+16.10.2020;Expense;Bank Account Marcus;Food;75,77;EUR
+16.10.2020;Expense;Bank Account Marcus;Food;3,32;EUR
+16.10.2020;Expense;Bank Account Marcus;Food;5,50;EUR
+16.10.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+19.10.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+19.10.2020;Expense;Bank Account Sophie;Rented Flat ;407,16;EUR
+19.10.2020;Expense;Bank Account Sophie;Rented Flat ;57,07;EUR
+19.10.2020;Expense;Bank Account Sophie;Consumer Credit;1272,11;EUR
+20.10.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+20.10.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+20.10.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+20.10.2020;Expense;Bank Account Sophie;Cosmetics and Care;1,45;EUR
+20.10.2020;Expense;Bank Account Sophie;Food;11,72;EUR
+21.10.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+21.10.2020;Income;Cash Marcus;Salary Marcus;50,00;EUR
+21.10.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+21.10.2020;Income;Bank Account Sophie;Other;100,00;EUR
+22.10.2020;Expense;Bank Account Marcus;Food;20,76;EUR
+23.10.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,89;EUR
+23.10.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+23.10.2020;Expense;Bank Account Sophie;Fun and Rest;40,00;EUR
+23.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;76,41;EUR
+23.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;10,82;EUR
+23.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;7,32;EUR
+23.10.2020;Expense;Bank Account Marcus;Clothes;7,80;EUR
+23.10.2020;Expense;Bank Account Marcus;Food;6,86;EUR
+24.10.2020;Expense;Bank Account Marcus;Food;56,56;EUR
+24.10.2020;Expense;Bank Account Marcus;Food;2,25;EUR
+24.10.2020;Expense;Bank Account Marcus;Health Care;4,83;EUR
+24.10.2020;Expense;Bank Account Marcus;Home Equipment;22,98;EUR
+24.10.2020;Expense;Bank Account Marcus;Food;8,39;EUR
+24.10.2020;Expense;Bank Account Marcus;Transport;3,20;EUR
+25.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;4,43;EUR
+25.10.2020;Expense;Bank Account Marcus;Health Care;3,95;EUR
+25.10.2020;Expense;Cash Marcus;Food;15,00;EUR
+25.10.2020;Expense;Cash Marcus;Home Equipment;10,00;EUR
+26.10.2020;Expense;Bank Account Marcus;Food;5,59;EUR
+26.10.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+26.10.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+26.10.2020;Income;Cash Marcus;Salary Marcus;136,10;EUR
+27.10.2020;Expense;Bank Account Marcus;Rent;953,64;EUR
+27.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;11,98;EUR
+27.10.2020;Expense;Bank Account Marcus;Food;2,99;EUR
+27.10.2020;Expense;Bank Account Marcus;Food;9,61;EUR
+27.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;5,00;EUR
+27.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;1,30;EUR
+27.10.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+27.10.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+27.10.2020;Expense;Bank Account Sophie;Food;3,22;EUR
+27.10.2020;Income;Bank Account Sophie;Salary Marcus 2;800,60;EUR
+28.10.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+28.10.2020;Expense;Bank Account Marcus;Food;6,44;EUR
+28.10.2020;Expense;Bank Account Marcus;Food;6,75;EUR
+28.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;11,89;EUR
+29.10.2020;Expense;Bank Account Sophie;Rented Flat ;33,82;EUR
+30.10.2020;Expense;Bank Account Sophie;Travels;25,00;EUR
+30.10.2020;Expense;Bank Account Marcus;Fees and Subscriptions;42,12;EUR
+31.10.2020;Expense;Cash Marcus;Travels;30,00;EUR
+31.10.2020;Expense;Cash Marcus;Food;16,30;EUR
+31.10.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+31.10.2020;Expense;Bank Account Marcus;Cosmetics and Care;30,30;EUR
+31.10.2020;Expense;Bank Account Marcus;Food;76,77;EUR
+31.10.2020;Expense;Bank Account Marcus;Transport;3,40;EUR
+01.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,83;EUR
+01.11.2020;Expense;Bank Account Marcus;Food;70,00;EUR
+01.11.2020;Expense;Bank Account Marcus;Rent;44,00;EUR
+01.11.2020;Expense;Bank Account Sophie;Health Care;16,38;EUR
+01.11.2020;Income;Bank Account Sophie;Other;650,00;EUR
+02.11.2020;Expense;Cash Marcus;Food;0,20;EUR
+02.11.2020;Expense;Bank Account Marcus;Food;2,09;EUR
+02.11.2020;Expense;Bank Account Marcus;Transport;1,60;EUR
+02.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+02.11.2020;Income;Cash Marcus;Salary Marcus;65,00;EUR
+04.11.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+04.11.2020;Expense;Bank Account Marcus;Food;3,38;EUR
+04.11.2020;Expense;Bank Account Marcus;Food;0,92;EUR
+05.11.2020;Expense;Cash Marcus;Food;8,00;EUR
+05.11.2020;Expense;Bank Account Marcus;Food;5,00;EUR
+05.11.2020;Expense;Bank Account Marcus;Food;2,68;EUR
+05.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;14,13;EUR
+05.11.2020;Expense;Bank Account Marcus;Health Care;7,90;EUR
+06.11.2020;Expense;Bank Account Sophie;Food;24,70;EUR
+06.11.2020;Expense;Bank Account Sophie;Food;2,99;EUR
+06.11.2020;Expense;Cash Marcus;Food;3,80;EUR
+06.11.2020;Expense;Bank Account Marcus;Food;61,29;EUR
+06.11.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+06.11.2020;Income;Bank Account Sophie;Apartment Renting ;1744,32;EUR
+07.11.2020;Expense;Bank Account Sophie;Home Equipment;18,75;EUR
+08.11.2020;Expense;Bank Account Marcus;Food;5,98;EUR
+09.11.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+10.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+10.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+10.11.2020;Expense;Bank Account Sophie;Food;26,84;EUR
+10.11.2020;Expense;Bank Account Sophie;Food;6,48;EUR
+11.11.2020;Expense;Bank Account Sophie;Rented Flat ;135,52;EUR
+11.11.2020;Expense;Bank Account Sophie;Consumer Credit;1272,11;EUR
+11.11.2020;Expense;Bank Account Sophie;Rented Flat ;89,00;EUR
+11.11.2020;Expense;Bank Account Sophie;Rented Flat ;300,00;EUR
+12.11.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+12.11.2020;Expense;Bank Account Marcus;Food;21,51;EUR
+12.11.2020;Income;Bank Account Marcus;Salary Marcus;1716,25;EUR
+13.11.2020;Expense;Cash Marcus;Food;5,40;EUR
+13.11.2020;Expense;Bank Account Marcus;Fun and Rest;10,00;EUR
+13.11.2020;Expense;Bank Account Marcus;Food;54,11;EUR
+13.11.2020;Expense;Bank Account Marcus;Food;41,60;EUR
+13.11.2020;Expense;Bank Account Marcus;Food;5,00;EUR
+13.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;7,19;EUR
+13.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;6,95;EUR
+13.11.2020;Expense;Bank Account Marcus;Food;9,32;EUR
+13.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,90;EUR
+13.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;31,00;EUR
+16.11.2020;Expense;Bank Account Marcus;Rent;953,64;EUR
+17.11.2020;Expense;Bank Account Sophie;Food;15,50;EUR
+17.11.2020;Expense;Bank Account Sophie;Food;3,38;EUR
+17.11.2020;Income;Bank Account Sophie;Other;100,00;EUR
+17.11.2020;Expense;Bank Account Marcus;Food;2,99;EUR
+17.11.2020;Expense;Bank Account Marcus;Food;11,19;EUR
+17.11.2020;Expense;Bank Account Marcus;Education;41,00;EUR
+17.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+18.11.2020;Expense;Bank Account Marcus;Transport;3,60;EUR
+18.11.2020;Expense;Bank Account Marcus;Food;9,21;EUR
+19.11.2020;Expense;Bank Account Sophie;Clothes;26,59;EUR
+19.11.2020;Expense;Bank Account Sophie;Food;5,98;EUR
+19.11.2020;Expense;Cash Marcus;Food;18,00;EUR
+19.11.2020;Expense;Bank Account Marcus;Food;3,94;EUR
+19.11.2020;Expense;Bank Account Marcus;Consumer Credit;63,00;EUR
+20.11.2020;Expense;Bank Account Marcus;Education;0,98;EUR
+20.11.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+20.11.2020;Expense;Bank Account Sophie;Unidentified;11,00;EUR
+21.11.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+21.11.2020;Expense;Bank Account Marcus;Food;99,68;EUR
+21.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+21.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,99;EUR
+21.11.2020;Expense;Bank Account Sophie;Health Care;28,00;EUR
+21.11.2020;Expense;Bank Account Sophie;Fun and Rest;24,99;EUR
+23.11.2020;Expense;Bank Account Marcus;Food;5,98;EUR
+24.11.2020;Expense;Bank Account Sophie;Fun and Rest;88,90;EUR
+24.11.2020;Expense;Bank Account Sophie;Home Equipment;13,08;EUR
+24.11.2020;Expense;Bank Account Sophie;Fees and Subscriptions;15,00;EUR
+24.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;4,55;EUR
+24.11.2020;Expense;Bank Account Marcus;Food;5,48;EUR
+24.11.2020;Expense;Bank Account Marcus;Food;21,47;EUR
+24.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;18,17;EUR
+24.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;2,43;EUR
+24.11.2020;Expense;Bank Account Marcus;Food;4,40;EUR
+24.11.2020;Expense;Bank Account Marcus;Home Equipment;6,40;EUR
+25.11.2020;Expense;Bank Account Marcus;Food;5,00;EUR
+25.11.2020;Expense;Bank Account Marcus;Food;7,08;EUR
+26.11.2020;Expense;Cash Sophie ;Food;12,50;EUR
+26.11.2020;Income;Bank Account Sophie;Salary Marcus 2;644,23;EUR
+26.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;63,32;EUR
+27.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;11,87;EUR
+27.11.2020;Expense;Cash Marcus;Travels;50,00;EUR
+27.11.2020;Expense;Bank Account Sophie;Travels;50,00;EUR
+27.11.2020;Expense;Bank Account Marcus;Transport;5,60;EUR
+27.11.2020;Expense;Bank Account Marcus;Food;86,72;EUR
+27.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;9,30;EUR
+27.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;11,20;EUR
+27.11.2020;Expense;Bank Account Sophie;Food;4,50;EUR
+30.11.2020;Expense;Bank Account Sophie;Food;4,50;EUR
+30.11.2020;Expense;Bank Account Sophie;Food;5,48;EUR
+30.11.2020;Expense;Bank Account Sophie;Cosmetics and Care;16,44;EUR
+30.11.2020;Expense;Bank Account Sophie;Food;5,48;EUR
+30.11.2020;Expense;Bank Account Sophie;Food;5,48;EUR
+30.11.2020;Expense;Bank Account Sophie;Education;8,00;EUR
+30.11.2020;Expense;Bank Account Marcus;Cosmetics and Care;18,01;EUR
+30.11.2020;Expense;Bank Account Marcus;Consumer Credit;6,39;EUR
+30.11.2020;Expense;Bank Account Marcus;Travels;44,71;EUR
+30.11.2020;Expense;Bank Account Marcus;Food;41,01;EUR
+30.11.2020;Expense;Bank Account Marcus;Travels;17,76;EUR
+30.11.2020;Expense;Bank Account Marcus;Food;13,73;EUR
+30.11.2020;Expense;Bank Account Marcus;Food;5,48;EUR
+30.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;3,51;EUR
+30.11.2020;Expense;Bank Account Marcus;Fees and Subscriptions;38,98;EUR
+01.12.2020;Income;Bank Account Sophie;Other;650,00;EUR
+01.12.2020;Income;Bank Account Sophie;Other;0,08;EUR
+01.12.2020;Expense;Bank Account Marcus;Cosmetics and Care;11,15;EUR
+01.12.2020;Expense;Bank Account Marcus;Food;4,55;EUR
+01.12.2020;Expense;Bank Account Marcus;Fees and Subscriptions;26,00;EUR
+01.12.2020;Expense;Bank Account Marcus;Rent;44,00;EUR
+02.12.2020;Expense;Bank Account Sophie;Fun and Rest;70,00;EUR
+04.12.2020;Income;Bank Account Marcus;Salary Marcus 2;100,00;EUR
+04.12.2020;Income;Bank Account Marcus;Salary Marcus;100,00;EUR
+04.12.2020;Expense;Bank Account Sophie;Health Care;22,66;EUR
+04.12.2020;Expense;Bank Account Marcus;Food;7,34;EUR
+06.12.2020;Expense;Cash Marcus;Fun and Rest;11,00;EUR
+06.12.2020;Expense;Cash Marcus;Home Equipment;8,00;EUR
+06.12.2020;Expense;Cash Marcus;Food;12,00;EUR
+06.12.2020;Expense;Bank Account Marcus;Food;3,69;EUR
+06.12.2020;Expense;Bank Account Marcus;Food;14,97;EUR
+07.12.2020;Expense;Bank Account Marcus;Home Equipment;27,98;EUR
+07.12.2020;Income;Bank Account Marcus;Other;100,00;EUR
+07.12.2020;Expense;Bank Account Marcus;Food;32,36;EUR
+07.12.2020;Expense;Bank Account Marcus;Fun and Rest;11,27;EUR
+07.12.2020;Expense;Bank Account Marcus;Food;4,94;EUR
+07.12.2020;Expense;Bank Account Marcus;Home Equipment;1,21;EUR
+07.12.2020;Expense;Bank Account Marcus;Food;7,90;EUR
+07.12.2020;Expense;Bank Account Marcus;Home Equipment;2,00;EUR
+07.12.2020;Expense;Bank Account Marcus;Fun and Rest;29,00;EUR
+07.12.2020;Expense;Bank Account Sophie;Food;5,48;EUR
+07.12.2020;Expense;Bank Account Sophie;Fun and Rest;5,57;EUR
+07.12.2020;Income;Bank Account Sophie;Other;26,00;EUR
+08.12.2020;Expense;Bank Account Marcus;Food;17,65;EUR
+08.12.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+08.12.2020;Expense;Bank Account Marcus;Health Care;3,73;EUR
+08.12.2020;Expense;Bank Account Marcus;Fun and Rest;13,37;EUR
+08.12.2020;Expense;Bank Account Marcus;Home Equipment;16,06;EUR
+08.12.2020;Expense;Bank Account Marcus;Fun and Rest;9,75;EUR
+08.12.2020;Expense;Bank Account Marcus;Home Equipment;4,95;EUR
+09.12.2020;Expense;Bank Account Marcus;Fun and Rest;76,82;EUR
+10.12.2020;Expense;Bank Account Sophie;Fees and Subscriptions;40,99;EUR
+10.12.2020;Expense;Bank Account Sophie;Fees and Subscriptions;5,00;EUR
+11.12.2020;Expense;Bank Account Marcus;Food;112,49;EUR
+11.12.2020;Expense;Bank Account Marcus;Home Equipment;9,57;EUR
+11.12.2020;Income;Bank Account Sophie;Apartment Renting ;1744,32;EUR
+11.12.2020;Income;Bank Account Sophie;Other;100,00;EUR
+11.12.2020;Expense;Bank Account Sophie;Home Equipment;5,39;EUR
+11.12.2020;Income;Bank Account Sophie;Other;13,00;EUR
+14.12.2020;Expense;Bank Account Marcus;Transport;9,00;EUR
+14.12.2020;Income;Cash Sophie ;Salary Marcus 2;50,00;EUR
+14.12.2020;Income;Cash Marcus;Salary Marcus;50,00;EUR
+15.12.2020;Expense;Bank Account Marcus;Cosmetics and Care;8,35;EUR
+15.12.2020;Expense;Bank Account Marcus;Food;6,75;EUR
+15.12.2020;Expense;Bank Account Marcus;Food;24,18;EUR
+15.12.2020;Expense;Bank Account Marcus;Food;57,40;EUR
+15.12.2020;Expense;Bank Account Marcus;Transport;3,80;EUR
+15.12.2020;Income;Cash Marcus;Other;200,00;EUR
+15.12.2020;Expense;Bank Account Marcus;Consumer Credit;63,00;EUR
+15.12.2020;Expense;Bank Account Marcus;Fees and Subscriptions;74,90;EUR
+17.12.2020;Expense;Bank Account Sophie;Home Equipment;3,30;EUR
+17.12.2020;Expense;Bank Account Sophie;Food;3,62;EUR
+17.12.2020;Expense;Bank Account Sophie;Cosmetics and Care;11,46;EUR
+17.12.2020;Expense;Bank Account Sophie;Home Equipment;7,93;EUR
+17.12.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,39;EUR
+18.12.2020;Expense;Bank Account Sophie;Home Equipment;9,79;EUR
+18.12.2020;Expense;Bank Account Marcus;Cosmetics and Care;9,13;EUR
+18.12.2020;Expense;Bank Account Marcus;Home Equipment;4,99;EUR
+18.12.2020;Expense;Bank Account Marcus;Food;102,76;EUR
+18.12.2020;Expense;Bank Account Marcus;Cosmetics and Care;7,65;EUR
+18.12.2020;Expense;Bank Account Marcus;Food;7,90;EUR
+18.12.2020;Expense;Bank Account Marcus;Food;4,50;EUR
+19.12.2020;Expense;Bank Account Marcus;Food;18,98;EUR
+20.12.2020;Expense;Bank Account Marcus;Travels;113,26;EUR
+20.12.2020;Expense;Bank Account Sophie;Consumer Credit;1272,11;EUR
+20.12.2020;Expense;Bank Account Sophie;Rented Flat ;148,26;EUR
+20.12.2020;Expense;Bank Account Sophie;Rented Flat ;203,34;EUR
+21.12.2020;Expense;Cash Marcus;Food;1,00;EUR
+21.12.2020;Expense;Bank Account Sophie;Fees and Subscriptions;3,99;EUR
+21.12.2020;Expense;Bank Account Sophie;Fees and Subscriptions;0,91;EUR
+21.12.2020;Expense;Bank Account Marcus;Food;60,20;EUR
+21.12.2020;Expense;Bank Account Marcus;Home Equipment;3,49;EUR
+21.12.2020;Expense;Bank Account Marcus;Cosmetics and Care;26,22;EUR
+21.12.2020;Income;Bank Account Marcus;Salary Marcus;1524,21;EUR
+22.12.2020;Expense;Bank Account Sophie;Food;45,50;EUR
+23.12.2020;Expense;Bank Account Marcus;Health Care;350,00;EUR
+23.12.2020;Income;Bank Account Marcus;Other;135,00;EUR
+23.12.2020;Expense;Bank Account Marcus;Food;24,80;EUR
+23.12.2020;Expense;Bank Account Sophie;Food;23,68;EUR
+23.12.2020;Expense;Bank Account Sophie;Cosmetics and Care;59,73;EUR
+25.12.2020;Expense;Bank Account Marcus;Education;97,48;EUR
+25.12.2020;Expense;Bank Account Marcus;Fees and Subscriptions;4,43;EUR
+25.12.2020;Expense;Bank Account Marcus;Fees and Subscriptions;61,13;EUR
+26.12.2020;Income;Cash Sophie ;Other;10,00;EUR
+28.12.2020;Expense;Bank Account Marcus;Health Care;73,90;EUR
+28.12.2020;Expense;Bank Account Marcus;Education;39,90;EUR
+28.12.2020;Expense;Bank Account Marcus;Fees and Subscriptions;12,09;EUR
+29.12.2020;Expense;Bank Account Sophie;Travels;86,49;EUR
+29.12.2020;Expense;Bank Account Marcus;Rent;953,64;EUR
+30.12.2020;Expense;Bank Account Sophie;Food;3,35;EUR
+30.12.2020;Expense;Bank Account Marcus;Fees and Subscriptions;38,98;EUR
+31.12.2020;Income;Bank Account Marcus;Other;0,01;EUR
+31.12.2020;Expense;Cash Marcus;Travels;20,00;EUR
+31.12.2020;Expense;Cash Sophie ;Travels;20,00;EUR
+31.12.2020;Expense;Bank Account Marcus;Food;28,86;EUR
+31.12.2020;Expense;Bank Account Marcus;Clothes;50,00;EUR
+31.12.2020;Expense;Bank Account Marcus;Cosmetics and Care;12,58;EUR
+31.12.2020;Expense;Bank Account Marcus;Food;26,06;EUR
